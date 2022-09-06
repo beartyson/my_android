@@ -1,1 +1,2 @@
-# my_andriod
+# my_android
+documenting my android learning history
